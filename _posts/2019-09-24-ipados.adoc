@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Site Launch! GOGOGO!"
+date: 2019-09-24
+---
+
+= Sample Page
+Well. Finally go
